@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Sahil
 
 **MEng Computing @ Imperial College London**  
-I like building practical systems that run for real people — from low-level OS work to production ML services.
+I like building practical systems that run for real people - from low-level OS work to production ML services.
 
 - 🔭 Recently: built and deployed a **medical imaging inference service** end to end  
   FastAPI · Docker · AWS (ECR, ECS Fargate) · TensorFlow/Keras · monitoring and health checks
@@ -14,7 +14,7 @@ I like building practical systems that run for real people — from low-level OS
 
 ## 🚀 Highlights
 
-### AI Research Scholar — Medical Imaging (Google DeepMind × Imperial)
+### AI Research Scholar - Medical Imaging (Google DeepMind × Imperial)
 - Built CNN and Vision Transformer models on **4,000+ X-rays**, reaching **85% accuracy**
 - Productionised the model: **FastAPI** service with request validation and batching
 - Containerised with **Docker**, pushed to registry, deployed on **AWS** (ECR + ECS Fargate)
